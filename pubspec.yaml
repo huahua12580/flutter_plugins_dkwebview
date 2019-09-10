@@ -1,8 +1,8 @@
 name: dkwebview
 description: A new flutter plugin project.
 version: 0.0.1
-author:
-homepage:
+author: huahua12580<huahua12580@icloud.com>
+homepage: https://github.com/huahua12580/flutter_plugins_dkwebview.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
